@@ -299,7 +299,7 @@ class _HomepageState extends State<Homepage> {
       stream: groups,
       builder: (context, AsyncSnapshot snapshot) {
         if (snapshot.hasData) {
-          if (condition) {
+          if (true) {
             
           }else{
 
